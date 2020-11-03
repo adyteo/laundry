@@ -1,2 +1,2 @@
 # laundry
-Washer / Dryer notification when cycle is finished
+Washer notification when cycle is finished
